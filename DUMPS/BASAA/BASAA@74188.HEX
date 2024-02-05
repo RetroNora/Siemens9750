@@ -1,8 +1,3 @@
 :020000040000FA
 :10000000FFFFFFFFFFFFFFFFFFFFFFFFFFFBF7EF1C
 :10001000DFBFFFFFFFFFFFFFFFFFFFFFFF7FFFFFD0
-
-
-This is a dump of 74188 read as 2716 so it reports other size etc. 
-74188 is 32x8 PROM IC ( yes, 32, no 32K).
-Note last two symbols are checksum.
